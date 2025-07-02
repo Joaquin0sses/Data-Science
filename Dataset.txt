@@ -1,0 +1,3 @@
+Los dataset se obtuvieron de la sigueinte pagina:
+https://datos.gob.cl/dataset/rendimiento-academico-estudiante
+Fueron los dataset de los años 2016 al año 2024
